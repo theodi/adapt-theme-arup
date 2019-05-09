@@ -1,10 +1,10 @@
-var theme="fco";
+var theme="arup";
 define(function(require) {
 	
 	var Adapt = require('coreJS/adapt');
 	var Backbone = require('backbone');
-	var ThemeBlock = require('theme/adapt-theme-fco/js/theme-block');
-	var msjquery = require('theme/adapt-theme-fco/js/jquery.dd.js');
+	var ThemeBlock = require('theme/adapt-theme-arup/js/theme-block');
+	var msjquery = require('theme/adapt-theme-arup/js/jquery.dd.js');
 	var emailPresent = false;
 
 	// Block View
