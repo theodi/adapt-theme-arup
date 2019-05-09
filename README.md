@@ -1,4 +1,4 @@
-# adapt-theme-fco
+# adapt-theme-arup
 
 This theme is adapted from the adapt vanilla theme
 
